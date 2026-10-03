@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7ae9b12c5c.fytbu.cn/sitemap.xml
